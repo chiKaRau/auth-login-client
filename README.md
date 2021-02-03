@@ -1,2 +1,2 @@
 # auth-login-client
-Created with CodeSandbox
+Please check https://chikarau.github.io/MyProjectPage/
